@@ -266,6 +266,17 @@ Darwin-GRC-GDPR-Privacy-Compliance-Assessment/
 ├── remediation_plan.md
 └── evidence/
 
+## Evidence Screenshots
+
+### GDPR Control Matrix
+![GDPR Control Matrix](evidence/gdpr-control-matrix.png)
+
+### Personal Data Inventory
+![GDPR Data Inventory](evidence/gdpr-data-inventory.png)
+
+### Privacy Risk Register
+![GDPR Privacy Risk Register](evidence/gdpr-privacy-risk-register.png)
+
 ## Skills Demonstrated
 
 - GDPR
